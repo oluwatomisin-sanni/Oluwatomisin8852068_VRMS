@@ -17,7 +17,7 @@ namespace VRMS
         public override void DisplayDetails()
         {
 
-            Console.WriteLine("This Vehicle is a Car");
+            Console.WriteLine("This Vehicle is a Truck");
             base.DisplayDetails();
             Console.WriteLine($"Capacity: {Capacity}");
             Console.WriteLine($"Truck Type: {TruckType}");
