@@ -3,7 +3,7 @@ namespace VRMS
 {
     public class Motorcycle : Vehicle
     {
-        public int EnigineCapacity { get; set; }
+        public int EngineCapacity { get; set; }
         public string FuelType { get; set; }
         public bool HasFairing { get; set; }
 
