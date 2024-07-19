@@ -15,3 +15,14 @@ namespace VRMS
         }
     }
 
+    public void AddVehicle(Vehicle vehicle)
+    {
+       
+        if (vehicle != null)
+        {
+            vehicles.Add(vehicle);
+            Console.WriteLine($"\n{vehicle.Manufacturer}, {vehicle.Model} has been added\n");
+        }
+    }
+}
+
