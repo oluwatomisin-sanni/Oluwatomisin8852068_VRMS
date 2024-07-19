@@ -20,10 +20,9 @@ namespace VRMS
             Console.WriteLine("This Vehicle is a Motorcycle");
             base.DisplayDetails();
             Console.WriteLine($"Capacity: {EngineCapacity}");
-            Console.WriteLine($"Truck Type: {FuelType}");
+            Console.WriteLine($"Fuel Type: {FuelType}");
             Console.WriteLine($"Four-Wheel Drive ?: {(HasFairing ? "Yes" : "No")}");
 
         }
     }
-
 }

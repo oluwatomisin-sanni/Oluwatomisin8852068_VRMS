@@ -39,7 +39,7 @@ namespace VRMS
             {
                 double rentalCost = vehicle.RentalPrice * days;
                 TotalRevenue += rentalCost;
-                Console.WriteLine($"\n{vehicle.Manufacturer}, {vehicle.Model} has been rented.\nFee:{vehicle.rentalCost}\n");
+                Console.WriteLine($"\n{vehicle.Manufacturer}, {vehicle.Model} has been rented.\n");
             }
             else
             {
