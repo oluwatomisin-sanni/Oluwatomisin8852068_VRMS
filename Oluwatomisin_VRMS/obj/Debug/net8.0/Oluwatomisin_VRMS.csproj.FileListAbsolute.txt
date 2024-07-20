@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\bin\Debug\net8.0\Oluwatomisin_VRMS.exe
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\bin\Debug\net8.0\Oluwatomisin_VRMS.deps.json
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\bin\Debug\net8.0\Oluwatomisin_VRMS.runtimeconfig.json
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\bin\Debug\net8.0\Oluwatomisin_VRMS.dll
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\bin\Debug\net8.0\Oluwatomisin_VRMS.pdb
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.sourcelink.json
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.dll
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\refint\Oluwatomisin_VRMS.dll
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.pdb
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\Oluwatomisin_VRMS.genruntimeconfig.cache
+C:\Users\Admin\source\repos\oluwatomisin-sanni\Oluwatomisin8852068_VRMS\Oluwatomisin_VRMS\obj\Debug\net8.0\ref\Oluwatomisin_VRMS.dll

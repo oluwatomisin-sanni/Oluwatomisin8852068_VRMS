@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|c:\\users\\admin\\source\\repos\\oluwatomisin-sanni\\oluwatomisin8852068_vrms\\oluwatomisin_vrms\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|c:\\users\\admin\\source\\repos\\oluwatomisin-sanni\\oluwatomisin8852068_vrms\\oluwatomisin_vrms\\vehicleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|solutionrelative:vehicleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|c:\\users\\admin\\source\\repos\\oluwatomisin-sanni\\oluwatomisin8852068_vrms\\oluwatomisin_vrms\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|c:\\users\\admin\\source\\repos\\oluwatomisin-sanni\\oluwatomisin8852068_vrms\\oluwatomisin_vrms\\rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|solutionrelative:rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|c:\\users\\admin\\source\\repos\\oluwatomisin-sanni\\oluwatomisin8852068_vrms\\oluwatomisin_vrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|c:\\users\\admin\\source\\repos\\oluwatomisin-sanni\\oluwatomisin8852068_vrms\\oluwatomisin_vrms\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3AA570-83FE-47EE-9E34-0B005D659683}|Oluwatomisin_VRMS.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleClass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\VehicleClass.cs",
+              "RelativeDocumentMoniker": "VehicleClass.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\VehicleClass.cs",
+              "RelativeToolTip": "VehicleClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:12:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:12:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalAgency.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\RentalAgency.cs",
+              "RelativeDocumentMoniker": "RentalAgency.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\RentalAgency.cs",
+              "RelativeToolTip": "RentalAgency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:11:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:11:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:11:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\oluwatomisin-sanni\\Oluwatomisin8852068_VRMS\\Oluwatomisin_VRMS\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:11:36.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

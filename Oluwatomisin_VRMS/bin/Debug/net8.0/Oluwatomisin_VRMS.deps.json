@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oluwatomisin_VRMS/1.0.0": {
+        "runtime": {
+          "Oluwatomisin_VRMS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oluwatomisin_VRMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
