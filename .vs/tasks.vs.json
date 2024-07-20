@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Oluwatomisin Sanni VRMS",
+      "appliesTo": "Oluwatomisin Sanni VRMS/",
+      "type": "launch"
+    }
+  ]
+}
