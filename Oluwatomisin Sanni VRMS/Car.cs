@@ -1,4 +1,5 @@
 ﻿using System;
+using VRMS;
 namespace VRMS
 {
 	public class Car : Vehicle

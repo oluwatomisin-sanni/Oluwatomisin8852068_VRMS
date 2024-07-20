@@ -1,4 +1,5 @@
 ﻿using System;
+using VRMS;
 namespace VRMS
 {
     public class Motorcycle : Vehicle
@@ -19,9 +20,9 @@ namespace VRMS
 
             Console.WriteLine("This Vehicle is a Motorcycle");
             base.DisplayDetails();
-            Console.WriteLine($"Capacity : {EngineCapacity}");
+            Console.WriteLine($"Engine Capacity : {EngineCapacity}");
             Console.WriteLine($"Fuel Type : {FuelType}");
-            Console.WriteLine($"HasFairing? : {(HasFairing ? "Yes" : "No")}");
+            Console.WriteLine($"Has Fairing? : {(HasFairing ? "Yes" : "No")}");
 
         }
     }
