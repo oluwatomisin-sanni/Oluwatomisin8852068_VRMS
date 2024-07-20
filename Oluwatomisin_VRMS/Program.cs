@@ -4,11 +4,11 @@ namespace VRMS
 {
     public class Program
     {
+        private static RentalAgency agency = new RentalAgency();
         static void Main(string[] args)
         {
-
-            RentalAgency agency = new RentalAgency();
-
+           
+           
             // instantiating the vehicles and their attributes
 
             Car car1 = new Car("Model 3", "Tesla", 80.0, 2023, 5, "Electric", "Automatic", false);

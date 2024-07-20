@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oluwatomisin_VRMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed375254f49e5b52a7b6560d50fbd0bf6e4769f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63bd83b2daa2cffd8ed8a904373e0bbe250a36c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oluwatomisin_VRMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oluwatomisin_VRMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
